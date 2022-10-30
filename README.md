@@ -43,8 +43,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Base-Apparel-Component.git)
-- Live Site URL: [Vercel Live URL](https://base-apparel-component.vercel.app/)
+- Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Sign-up-component.git)
+- Live Site URL: [Vercel Live URL](https://sign-up-component-rust.vercel.app/)
 
 ## My process
 
